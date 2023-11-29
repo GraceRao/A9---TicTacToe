@@ -1,0 +1,30 @@
+Player's turn: X
+[None, None, None]
+[None, None, None]
+[None, None, None]
+Enter the position of (x,y), split with comma: 0,0
+None
+Player's turn: O
+['X', None, None]
+[None, None, None]
+[None, None, None]
+Enter the position of (x,y), split with comma: 1,0
+None
+Player's turn: X
+['X', None, None]
+['O', None, None]
+[None, None, None]
+Enter the position of (x,y), split with comma: 0,1
+None
+Player's turn: O
+['X', 'X', None]
+['O', None, None]
+[None, None, None]
+Enter the position of (x,y), split with comma: 2,1
+None
+Player's turn: X
+['X', 'X', None]
+['O', None, None]
+[None, 'O', None]
+Enter the position of (x,y), split with comma: 0,2
+X

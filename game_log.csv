@@ -1,0 +1,12 @@
+winner, move_count, mode
+X,5,1
+X,5,1
+O,8,1
+X,7,1
+O,8,1
+X,5,1
+X,5,1
+draw,9,2
+X,7,1
+O,8,2
+draw,9,2
